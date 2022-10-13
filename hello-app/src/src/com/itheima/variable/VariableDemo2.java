@@ -15,6 +15,7 @@ public class VariableDemo2 {
           System.out.println(age+'3');
           System.out.println(age+'4');
           System.out.println("push test");
+          System.out.println("pull test");
 
 //        2、变量声明后，不能存储其他类型的数据。
           // age = 35.9;
