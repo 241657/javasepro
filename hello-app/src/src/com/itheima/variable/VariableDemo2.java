@@ -6,9 +6,10 @@ public class VariableDemo2 {
 //        1、变量要先声明再使用
           int age = 21;
           age = 25;
-          System.out.println(age);
-          System.out.println(age);
-          System.out.println(age);
+          System.out.println(age+'1');
+          System.out.println(age+'2');
+          System.out.println(age+'3');
+          System.out.println(age+'4');
 
 //        2、变量声明后，不能存储其他类型的数据。
           // age = 35.9;
